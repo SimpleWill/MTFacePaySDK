@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MTFacePaySDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "刷脸支付SDK（MT）"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-刷脸支付SDK（MT）
+刷脸支付SDK（MT），刷脸支付
                    DESC
 
   spec.homepage     = "https://github.com/SimpleWill/MTFacePaySDK"
